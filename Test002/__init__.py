@@ -44,7 +44,7 @@ print ("haha中国")
 #     for j in range(1,i+1)
 #         print("%d*%d=%2d" % (i, j, i * j), '')
 #     print("");
-
+#99999999999999999999999999999999999
 for i in range(1,10):
     for j in range(1,i+1):
         print j,'*',i,'=',i*j,' ',
